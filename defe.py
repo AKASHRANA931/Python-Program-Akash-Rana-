@@ -1,0 +1,2 @@
+def akash():
+    print("Hello")
